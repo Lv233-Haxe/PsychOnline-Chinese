@@ -1,0 +1,129 @@
+{
+  "dependencies": [
+    {
+      "name": "hscript",
+      "type": "haxelib",
+      "version": "2.5.0"
+    },
+    {
+      "name": "lime",
+      "type": "haxelib",
+      "version": "8.1.2"
+    },
+    {
+      "name": "openfl",
+      "type": "haxelib",
+      "version": "9.3.3"
+    },
+    {
+      "name": "flixel",
+      "type": "haxelib",
+      "version": "5.6.2"
+    },
+    {
+      "name": "flixel-addons",
+      "type": "haxelib",
+      "version": "3.2.1"
+    },
+    {
+      "name": "flixel-tools",
+      "type": "haxelib",
+      "version": "1.5.1"
+    },
+    {
+      "name": "flixel-ui",
+      "type": "haxelib",
+      "version": "2.5.0"
+    },
+    {
+      "name": "hxcpp",
+      "type": "haxelib",
+      "version": "4.3.2"
+    },
+    {
+      "name": "tjson",
+      "type": "haxelib",
+      "version": "1.4.0"
+    },
+    {
+      "name": "hxjsonast",
+      "type": "haxelib",
+      "version": "1.1.0"
+    },
+    {
+      "name": "hxCodec",
+      "type": "git",
+      "dir": null,
+      "ref": "cafc58e9046505ff93fa659339808b53faa5d6f3",
+      "url": "https://github.com/polybiusproxy/hxCodec"
+    },
+    {
+      "name": "SScript",
+      "type": "git",
+      "dir": null,
+      "ref": "patch-1",
+      "url": "https://github.com/Snirozu/SScript-7.7.0"
+    },
+    {
+      "name": "discord_rpc",
+      "type": "git",
+      "dir": null,
+      "ref": "master",
+      "url": "https://github.com/Aidan63/linc_discord-rpc"
+    },
+    {
+      "name": "linc_luajit",
+      "type": "git",
+      "dir": null,
+      "ref": "main",
+      "url": "https://github.com/mcagabe19-stuff/linc_luajit-rewriten"
+    },
+    {
+      "name": "colyseus",
+      "type": "haxelib",
+      "version": "0.15.2"
+    },
+    {
+      "name": "HtmlParser",
+      "type": "haxelib",
+      "version": "3.4.0"
+    },
+    {
+      "name": "unrar",
+      "type": "haxelib",
+      "version": "1.0.0"
+    },
+    {
+      "name": "away3d",
+      "type": "haxelib",
+      "version": "5.0.9"
+    },
+    {
+      "name": "json2object",
+      "type": "haxelib",
+      "version": "3.11.0"
+    },
+    {
+      "name": "flxanimate",
+      "type": "git",
+      "dir": null,
+      "ref": "dev",
+      "url": "https://github.com/ShadowMario/flxanimate"
+    },
+    {
+      "name": "lumod",
+      "type": "haxelib",
+      "version": "1.0.0"
+    },
+    {
+      "name": "actuate",
+      "type": "haxelib",
+      "version": "1.9.0"
+    },
+    {
+      "name": "compiletime",
+      "type": "haxelib",
+      "version": "2.8.0"
+    }
+  ]
+}

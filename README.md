@@ -1,19 +1,31 @@
-特征：
+<p align="center">
+    <img width="200" src="https://raw.githubusercontent.com/Snirozu/Funkin-Online-Server/refs/heads/main/client/public/images/transwag.png">
+</p>
 
-·在线多人游戏（公网和 LAN）
+## Features
+* Online Multiplayer (Public and LAN)
+* Built-In Mod Downloader
+* No Port Forwarding needed
+* Game Modifiers
+* Custom API
+* Skins Support
+* Leaderboards
+* Erect/Nightmare Difficulty Support
 
-·内置 Mod 下载器
+### Planned
+* Up to 8 players support
+* Online Lua API rework
+* Move to Psych Engine 1.0
 
-·无需端口转发
+## Links 
+* [Documentation](https://github.com/Snirozu/Funkin-Psych-Online/wiki)
+* [Server Source Code](https://github.com/Snirozu/Funkin-Online-Server)
 
-·Game Modifiers
+## Contributors!
+<a href="https://github.com/Snirozu/Funkin-Psych-Online/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Snirozu/Funkin-Psych-Online" />
+</a>
 
-·自定义 API
+###### Generated with [contrib.rocks](https://contrib.rocks)!
 
-·皮肤支持
-
-·排行榜
-
-·Erect/Nightmare 难度
-
-·中文！
+###### Psych Engine Commit: 5d0a66d
